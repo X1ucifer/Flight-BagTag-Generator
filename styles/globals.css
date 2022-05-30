@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@media print{
+    .main1{
+        /* display: none; */
+        width: 100%;
+    }
+
+    .detail1{
+        display: none;
+    }
+    .column1{
+        display: inline;
+    }
+}
