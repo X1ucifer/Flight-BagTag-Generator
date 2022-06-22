@@ -16,3 +16,162 @@
         display: inline;
     }
 }
+
+
+.ocrloader p::before {
+    content: '';
+    display:inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #18c89b;
+    position: relative;
+    right: 4px;
+  }
+  .ocrloader p {
+    color: #18c89b;
+    position: absolute;
+    bottom: -30px;
+    left: 38%;
+    font-size: 16px;
+    font-weight: 600;
+    animation: blinker 1.5s linear infinite;
+    font-family: sans-serif;
+    text-transform: uppercase;
+  }
+  
+  .ocrloader {
+    width: 360px;
+    height: 225px;
+    position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    top: 25%;
+    backface-visibility: hidden;
+  }
+  
+  .ocrloader span {
+    position: absolute;
+    left: 35px;
+    top: 0;
+    width: 85%;
+    height: 5px;
+    background-color: #18c89b;
+    box-shadow: 0 0 10px 1px #18c89b,
+                0 0 1px 1px #18c89b;
+    z-index: 1;
+    transform: translateY(95px);
+    animation: move 1.7s cubic-bezier(0.15,0.54,0.76,0.74);
+    animation-iteration-count: infinite;
+  }
+  
+  .ocrloader:before,
+  .ocrloader:after,
+  .ocrloader em:after,
+  .ocrloader em:before {
+    border-color: #18c89b;
+    content: "";
+    position: absolute;
+    width: 45px;
+    height: 46px;
+    border-style: solid;
+    border-width: 0px;
+  }
+  .ocrloader:before {
+    left: 0;
+    top: 0;
+    border-left-width: 5px;
+    border-top-width: 5px;
+    border-radius: 5px 0 0 0;
+  }
+  .ocrloader:after {
+    right: 0;
+    top: 0;
+    border-right-width: 5px;
+    border-top-width: 5px;
+    border-radius: 0 5px 0 0;
+  }
+  .ocrloader em:before {
+    left: 0;
+    bottom: 0;
+    border-left-width: 5px;
+    border-bottom-width: 5px;
+    border-radius: 0 0 0 5px;
+  }
+  .ocrloader em:after {
+    right: 0;
+    bottom: 0;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-radius: 0 0 5px 0;
+  }
+  
+  @keyframes move {
+    0%,
+    100% {
+      transform: translateY(190px);
+    }
+    50% {
+      transform: translateY(0%);
+    }
+    75% {
+      transform: translateY(160px);
+    }
+  }
+  
+  @keyframes blinker {  
+    50% { opacity: 0; }
+  }
+
+
+  /* tick */
+
+  .checkmark__circle {
+    stroke-dasharray: 166;
+    stroke-dashoffset: 166;
+    stroke-width: 2;
+    stroke-miterlimit: 10;
+    stroke: #7ac142;
+    fill: none;
+    animation: stroke 0.6s cubic-bezier(0.65, 0, 0.45, 1) forwards;
+  }
+  
+  .checkmark {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    display: block;
+    stroke-width: 2;
+    stroke: #fff;
+    stroke-miterlimit: 10;
+    margin: 10% auto;
+    box-shadow: inset 0px 0px 0px #7ac142;
+    animation: fill .4s ease-in-out .4s forwards, scale .3s ease-in-out .9s both;
+  }
+  
+  .checkmark__check {
+    transform-origin: 50% 50%;
+    stroke-dasharray: 48;
+    stroke-dashoffset: 48;
+    animation: stroke 0.3s cubic-bezier(0.65, 0, 0.45, 1) 0.8s forwards;
+  }
+  
+  @keyframes stroke {
+    100% {
+      stroke-dashoffset: 0;
+    }
+  }
+  @keyframes scale {
+    0%, 100% {
+      transform: none;
+    }
+    50% {
+      transform: scale3d(1.1, 1.1, 1);
+    }
+  }
+  @keyframes fill {
+    100% {
+      box-shadow: inset 0px 0px 0px 30px #7ac142;
+    }
+  }

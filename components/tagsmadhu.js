@@ -78,7 +78,7 @@ function Tags2() {
                                     <th className='border-[1px] border-gray-900 text-left w-[70%] h-[50px] text-teal-50 '>
                                         <div className='w-[60px]'>
                                             <p className=' font-thin text-xs'>12 JUNE 22</p>
-                                            <p className=' font-bold text-lg'>MAL</p>
+                                            <p className=' font-bold text-lg'>MAA</p>
                                             <p className=' font-thin text-xs'>QJ RD8N</p>
                                             <p className=' font-thin text-xs'>SEQ-001</p>
                                         </div>
@@ -161,7 +161,7 @@ function Tags2() {
                                     <th className='border-[1px] border-gray-900 text-left w-[70%] h-[50px] text-teal-50 '>
                                         <div className='w-[60px]'>
                                             <p className=' font-thin text-xs'>12 JUNE 22</p>
-                                            <p className=' font-bold text-lg'>MAL</p>
+                                            <p className=' font-bold text-lg'>MAA</p>
                                             <p className=' font-thin text-xs'>QJ RD8N</p>
                                             <p className=' font-thin text-xs'>SEQ-001</p>
                                         </div>
