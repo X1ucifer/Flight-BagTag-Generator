@@ -32,7 +32,7 @@ function Print() {
                         </div>
                         <div>
                             <h1>6E098</h1>
-                            <h1>12 June 22</h1>
+                            <h1>2 July 22</h1>
                         </div>
 
                     </div>
@@ -45,7 +45,7 @@ function Print() {
                         <div>
                             <h1>Sakthivel</h1>
                             <h1>PNR : QJRD8N</h1>
-                            <h1>12 June 22</h1>
+                            <h1>2 July 22</h1>
                             <h1>6E0312619936</h1>
                         </div>
                         <span className=' bg-black text-white border-2 border-zinc-900  pt-[15px]' style={{
@@ -72,7 +72,7 @@ function Print() {
                         <div>
                             <h1>Sakthivel</h1>
                             <h1>PNR : QJRD8N</h1>
-                            <h1>12 June 22</h1>
+                            <h1>2 July 22</h1>
                             <h1>6E0312619936</h1>
                         </div>
 
@@ -90,7 +90,7 @@ function Print() {
                         </div>
                         <div>
                             <h1>6E098</h1>
-                            <h1>12 June 22</h1>
+                            <h1>2 July 22</h1>
                         </div>
 
                     </div>

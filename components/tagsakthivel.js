@@ -27,7 +27,7 @@ function Tags1() {
 
                     <div className='ml-[30px] mb-[40px] '>
                         <h1 className=' font-bold text-xl'>Delhi(T1) → Chennai(T2)</h1>
-                        <p className=' font-thin text-xs'>12 June 2022,11:00 - 6E 5098
+                        <p className=' font-thin text-xs'>2 July 2022,11:00 - 6E 5098
                             - PNR - QJRD8N</p>
 
                         <Link href="/">
@@ -77,7 +77,7 @@ function Tags1() {
                                 <tr className='bg-black'>
                                     <th className='border-[1px] border-gray-900 text-left w-[70%] h-[50px] text-teal-50 '>
                                         <div className='w-[60px]'>
-                                            <p className=' font-thin text-xs'>12 JUNE 22</p>
+                                            <p className=' font-thin text-xs'>2 July 22</p>
                                             <p className=' font-bold text-lg'>MAA</p>
                                             <p className=' font-thin text-xs'>QJ RD8N</p>
                                             <p className=' font-thin text-xs'>SEQ-001</p>
@@ -160,7 +160,7 @@ function Tags1() {
                                 <tr className='bg-black'>
                                     <th className='border-[1px] border-gray-900 text-left w-[70%] h-[50px] text-teal-50 '>
                                         <div className='w-[60px]'>
-                                            <p className=' font-thin text-xs'>12 JUNE 22</p>
+                                            <p className=' font-thin text-xs'>2 July 22</p>
                                             <p className=' font-bold text-lg'>MAA</p>
                                             <p className=' font-thin text-xs'>QJ RD8N</p>
                                             <p className=' font-thin text-xs'>SEQ-001</p>

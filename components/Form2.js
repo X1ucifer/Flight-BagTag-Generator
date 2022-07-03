@@ -49,7 +49,7 @@ export default function Form2({ reference }) {
             <Container fixed>
 
                 <h1 className=' font-bold text-xl'>Delhi(T1) → Chennai(T2)</h1>
-                <p className=' font-thin mb-[30px]'>12 June 2022,11:00 - 6E 5098
+                <p className=' font-thin mb-[30px]'>2 July 2022,11:00 - 6E 5098
                     - PNR - QJRD8N</p>
 
                 <Tables />

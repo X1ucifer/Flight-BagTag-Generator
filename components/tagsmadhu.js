@@ -27,7 +27,7 @@ function Tags2() {
 
                     <div className='ml-[30px] mb-[40px] '>
                         <h1 className=' font-bold text-xl'>Delhi(T1) → Chennai(T2)</h1>
-                        <p className=' font-thin text-xs'>12 June 2022,11:00 - 6E 5098
+                        <p className=' font-thin text-xs'>2 JULY 22,11:00 - 6E 5098
                             - PNR - QDRC9N</p>
 
                         <Link href="/madhu/boardingpass">
@@ -77,7 +77,7 @@ function Tags2() {
                                 <tr className='bg-black'>
                                     <th className='border-[1px] border-gray-900 text-left w-[70%] h-[50px] text-teal-50 '>
                                         <div className='w-[60px]'>
-                                            <p className=' font-thin text-xs'>12 JUNE 22</p>
+                                            <p className=' font-thin text-xs'>2 JULY 22</p>
                                             <p className=' font-bold text-lg'>MAA</p>
                                             <p className=' font-thin text-xs'>QJ RD8N</p>
                                             <p className=' font-thin text-xs'>SEQ-001</p>
@@ -140,11 +140,11 @@ function Tags2() {
                                         <div className='flex justify-around'>
                                             <div>
                                                 <Barcode value="0312619337" />
-                                                <p className=' text-right '>Madhu Lekha.ss</p>
+                                                <p className=' text-right '>Dilip Fernandez</p>
                                             </div>
                                             <div>
                                                 <Barcode value="0312619337" />
-                                                <p className=' text-left '>Madhu Lekha.ss</p>
+                                                <p className=' text-left '>Dilip Fernandez</p>
                                             </div>
                                         </div>
                                     </td>
@@ -160,7 +160,7 @@ function Tags2() {
                                 <tr className='bg-black'>
                                     <th className='border-[1px] border-gray-900 text-left w-[70%] h-[50px] text-teal-50 '>
                                         <div className='w-[60px]'>
-                                            <p className=' font-thin text-xs'>12 JUNE 22</p>
+                                            <p className=' font-thin text-xs'>2 JULY 22</p>
                                             <p className=' font-bold text-lg'>MAA</p>
                                             <p className=' font-thin text-xs'>QJ RD8N</p>
                                             <p className=' font-thin text-xs'>SEQ-001</p>

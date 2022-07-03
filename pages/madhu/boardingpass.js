@@ -21,7 +21,7 @@ function BoardingPassMadhu() {
                                     <div className=''>
                                         <div className='flex justify-between'>
                                             <div className='mt-[30px] ml-[40px]'>
-                                                <h4>MADHU/LEKHA.SS</h4>
+                                                <h4>DILIP FERNANDEZ</h4>
                                             </div>
 
                                             <div className='mt-[30px] mr-[40px]'>
@@ -64,7 +64,7 @@ function BoardingPassMadhu() {
                                             <div className='mt-[60px]'>
                                                 <div className='flex justify-between'>
                                                     <p>Date - </p>
-                                                    <p className='font-bold'>10 June 2022</p>
+                                                    <p className='font-bold'>2 July 2022</p>
                                                 </div>
 
                                                 <div className='flex justify-between'>
@@ -100,7 +100,7 @@ function BoardingPassMadhu() {
                                 <div className=''>
                                     <div className=''>
                                         <div className='mt-[10px] ml-[10px]'>
-                                            <h4>MADHU LEKHA.SS</h4>
+                                            <h4>DILIP FERNANDEZ</h4>
                                         </div>
 
                                         <div className='mt-[10px] ml-[10px]'>
@@ -121,7 +121,7 @@ function BoardingPassMadhu() {
 
                                         <div className='flex justify-between m-[20px]'>
                                             <p>Date</p>
-                                            <p className='font-bold'>10 June 2022</p>
+                                            <p className='font-bold'>2 July 2022</p>
                                         </div>
 
                                         <div className='flex justify-between m-[20px]'>

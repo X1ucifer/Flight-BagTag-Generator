@@ -48,7 +48,7 @@ export default function Form2() {
 
     const [select, setSelect] = useState("6E");
     const [pnr, setPnr] = useState("QDRC9N");
-    const [email, setEmail] = useState("madhuchiny@gmail.com");
+    const [email, setEmail] = useState("dtaf93.uni@gmail.com");
 
 
     const router = useRouter();

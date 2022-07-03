@@ -105,7 +105,7 @@ export default function Tables() {
 
 
             <h1 className=' font-bold text-xl mt-[100px]'>Chennai(T1) → Delhi(T2)</h1>
-            <p className=' font-thin mb-[30px]'>14 June 2022,11:00 - 6E 6695
+            <p className=' font-thin mb-[30px]'>4 July 2022,11:00 - 6E 6695
                 - PNR - QJRD8N</p>
 
             <TableContainer component={Paper}>

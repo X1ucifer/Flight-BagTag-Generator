@@ -32,7 +32,7 @@ function Print2() {
                         </div>
                         <div>
                             <h1>6E098</h1>
-                            <h1>12 June 22</h1>
+                            <h1>2 July 22</h1>
                         </div>
 
                     </div>
@@ -43,9 +43,9 @@ function Print2() {
 
                     <div className='flex justify-between'>
                         <div>
-                            <h1>Madhu Lekha.ss</h1>
+                            <h1>Dilip Fernandez</h1>
                             <h1>PNR : QDRC9N</h1>
-                            <h1>12 June 22</h1>
+                            <h1>2 July 22</h1>
                             <h1>6E0312619936</h1>
                         </div>
                         <span className=' bg-black text-white border-2 border-zinc-900  pt-[15px]' style={{
@@ -70,9 +70,9 @@ function Print2() {
                             SEQ:001
                         </span>
                         <div>
-                            <h1>Madhu Lekha.ss</h1>
+                            <h1>Dilip Fernandez</h1>
                             <h1>PNR : QDRC9N</h1>
-                            <h1>12 June 22</h1>
+                            <h1>2 July 22</h1>
                             <h1>6E0312619936</h1>
                         </div>
 
@@ -90,7 +90,7 @@ function Print2() {
                         </div>
                         <div>
                             <h1>6E098</h1>
-                            <h1>12 June 22</h1>
+                            <h1>2 July 22</h1>
                         </div>
 
                     </div>

@@ -64,7 +64,7 @@ function BoardingPass() {
                                             <div className='mt-[60px]'>
                                                 <div className='flex justify-between'>
                                                     <p>Date - </p>
-                                                    <p className='font-bold'>10 June 2022</p>
+                                                    <p className='font-bold'>2 July 2022</p>
                                                 </div>
 
                                                 <div className='flex justify-between'>
@@ -121,7 +121,7 @@ function BoardingPass() {
 
                                         <div className='flex justify-between m-[20px]'>
                                             <p>Date</p>
-                                            <p className='font-bold'>10 June 2022</p>
+                                            <p className='font-bold'>2 July 2022</p>
                                         </div>
 
                                         <div className='flex justify-between m-[20px]'>
